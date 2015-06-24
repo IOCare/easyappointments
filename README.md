@@ -12,10 +12,11 @@ can download and install it **even for commercial use**. Easy!Appointments will 
 your existing website, because it can be installed in a single folder of the server and of course, 
 both sites can share the same database.
 
-### Features
+### Features 
 The project was designed to be flexible and reliable so as to be able to meet the needs of any 
 kind of enterprise. You can the read the main features of the system below:
 
+* Bootstarp 3.3.* Support.
 * Full customers and appointments management.
 * Services and service providers organization.
 * Work flow and booking rules.
